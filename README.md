@@ -1,8 +1,8 @@
-## All Uploader Bot ❤️
+## UrlUploaderXRoot 🤖
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanakt&repo=All-Url-Uploader&theme=tokyonight)](https://github.com/kalanakt/All-Url-Uploader&bg_color=#24292F)
 
-## Features 🦠
+## Features of 🤖
 
 ```
 • Upload HTTP/HTTPS as File/Video to Telegram.
