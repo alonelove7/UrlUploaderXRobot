@@ -1,6 +1,6 @@
 class Translation(object):
     START_TEXT = """Hi {},
-I'm All URL Uploader!
+I'm UrlUploaderXRobot 🤖!
 You can upload File|Video To Telegram with direct link, Using this bot!
 Support Sites <a href="https://ytdl-org.github.io/youtube-dl/supportedsites.html">HERE</a>
 /help for more details!"""
@@ -18,9 +18,9 @@ URL | filename | username | password"""
     NO_VOID_FORMAT_FOUND = "ERROR...\n<b>YouTubeDL</b> said: {}"
     ABOUT_MSG = """ Something About Me :
     
-   ☞My Name  : All Url Uploader Bot
+   ☞My Name  : UrlUploaderXRobot
 
-   ☞Updates  : @TMWAD    
+   ☞Owner  : @DrStrangeRobot    
 
    ☞Language : Python3
 
@@ -35,7 +35,7 @@ URL | filename | username | password"""
    Video  - Give File as video without Screenshots
    File   - Give File without Screenshots
 
-If bot didn't respond, Ask Here @TMWAD"""
+If bot didn't respond, Ask Here @DrStrangeRobot"""
     REPLY_TO_MEDIA_ALBUM_TO_GEN_THUMB = "Reply /generatecustomthumbnail to a media album, to generate custom thumbail"
     ERR_ONLY_TWO_MEDIA_IN_ALBUM = """Media Album should contain only two photos. Please re-send the media album, and then try again, or send only two photos in an album."
 You can use /rename command after receiving file to rename it with custom thumbnail support.
