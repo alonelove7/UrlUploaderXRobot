@@ -1,6 +1,6 @@
 ## UrlUploaderXRoot 🤖
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalanakt&repo=All-Url-Uploader&theme=tokyonight)](https://github.com/kalanakt/All-Url-Uploader&bg_color=#24292F)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DrugLordHeisenberg&repo=UrlUploaderXRoot&theme=tokyonight)](https://github.com/DrugLordHeisenberg/UrlUploaderXRobot&bg_color=#24292F)
 
 ## Features of 🤖
 
@@ -20,31 +20,25 @@
 
 <p align="">
     <a href="https://heroku.com/deploy?template=https://github.com/DrugLordHeisenberg/newuplbot">
-    <img src="https://github.com/nikhileashy/justfor_testing/blob/main/herokudeploy-01-cropped.svg" alt="herokudeploy-01" border="0" height="90" width="285"></a>
-</p>
+    <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
+  </a>
 
 ### Host Locally 🤕
 
 ```shell
-git clone https://github.com/kalanakt/All-Url-Uploader
-cd All-Url-Uploader
+git https://github.com/DrugLordHeisenberg/UrlUploaderXRobot
+cd UrlUploaderXRobot
 pip3 install -r requirements.txt
 # EDIT sample_config.py values appropriately
 python3 main.py
 ```
-## Found a Bug 🐛
 
-```Feel free to create a pull or create a issue now and describe your issue freely.```
-
-## Succsus Url 🤖
-   **[All Url Uploader Bot](https://t.me/All_Url_Uploader_Bot)**
+## Success Url 🤖
+   **[Url Uploader× Robot🤖](https://telegram.me/UrlUploaderXRobot)**
 
 
-## Support Sites 🐙
+## Support Sites 💻
    **[YouTube-dl Supported Links](https://ytdl-org.github.io/youtube-dl/supportedsites.html)**
-
-## TG Bots Updates 🦄
-   **[Bot Universe](https://t.me/TMWAD)**
 
 ## Credits, and Thanks to 👀
 
